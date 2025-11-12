@@ -25,14 +25,6 @@
   <img src="https://skillicons.dev/icons?i=react,typescript,js,python,django,postgres,tailwind,html,css,vercel,docker,git" alt="Devix Tech Stack" />
 </p>
 
-<p align="center" style="margin-top:10px;">
-  <b>Frontend:</b> React, TypeScript, Tailwind CSS  
-  <br/>
-  <b>Backend:</b> Django REST Framework, PostgreSQL  
-  <br/>
-  <b>Tools:</b> Docker, Vercel, Git, Postman
-</p>
-
 ---
 
 ## 👨‍💻 Team Members
