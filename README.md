@@ -31,9 +31,9 @@
 
 | 👤 Name | 💼 Role | 🌐 Links |
 |---------|----------|----------|
-| **Ali Shabani** | Frontend Developer | [GitHub](https://github.com/AliShabaniDev) • [LinkedIn](https://linkedin.com/in/alishabani) |
-| **Roein Yousefi** | Backend Developer | [GitHub](https://github.com/roein-dev) • [LinkedIn](https://www.linkedin.com/in/roein-yousefi-b794b0292) |
-| **Mobin Ebrahimi** | Backend Developer | [GitHub](https://github.com/mobin732) |
+| **Ali Shabani** | Frontend Developer | [GitHub](https://github.com/alihstm) • [LinkedIn](https://linkedin.com/in/alishabani) |
+| **Roein Yousefi** | Backend Developer | [GitHub](https://github.com/roein-yousefi) • [LinkedIn](https://www.linkedin.com/in/roein-yousefi-b794b0292) |
+| **Mobin Ebrahimi** | Backend Developer | [GitHub](https://github.com/mobin732) • [LinkedIn](https://www.linkedin.com/in/mobin-ebrahimi-0768a0398/) |
 
 ---
 
